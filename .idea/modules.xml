@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Whisper_ASR_using_TFLite_C++_API.iml" filepath="$PROJECT_DIR$/.idea/modules/Whisper_ASR_using_TFLite_C++_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whisper_ASR_using_TFLite_C++_API.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/src/main/cpp/CMakeLists.txt",
+    "/home/nlp/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/nlp/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/nlp/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/nlp/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/nlp/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/.cxx/cmake/debug/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": [
+        "/home/nlp/Documents/VeTTec/android_app/android_whisper_app/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/generated-libs/arm64-v8a/libtensorflowlite.so"
+      ]
+    }
+  }
+}
